@@ -1,0 +1,324 @@
+2025-08-02 19:42:25,896 - ERROR - Erro: string indices must be integers, not 'str'
+2025-08-02 19:42:56,561 - ERROR - Erro: string indices must be integers, not 'str'
+2025-08-02 19:43:27,211 - ERROR - Erro: string indices must be integers, not 'str'
+2025-08-02 19:43:57,886 - ERROR - Erro: string indices must be integers, not 'str'
+2025-08-02 19:44:28,563 - ERROR - Erro: string indices must be integers, not 'str'
+[2025-08-02 21:54:32] Starting LN Markets Trading Bot
+[2025-08-02 21:54:32] Account Balance: $50.00
+[2025-08-02 21:54:32] Current BTC Price: $49,472.06
+[2025-08-02 21:54:32] Error: name 'Config' is not defined
+[2025-08-02 21:54:32] Trading bot shutdown complete
+[2025-08-02 21:58:59] Iniciando Bot de Trading LN Markets
+[2025-08-02 21:58:59] Saldo da conta: $50.00
+[2025-08-02 21:58:59] Preço atual do BTC: $49,739.00
+[2025-08-02 21:58:59] Verificando condições de trading em $49,739.00
+[2025-08-02 21:58:59] Criando nova posição em $49,739.00
+[2025-08-02 21:58:59] Posição criada - Entrada: $49,739.00 | Alvo: $50,236.39
+[2025-08-02 21:59:09] Saldo da conta: $50.00
+[2025-08-02 21:59:09] Preço atual do BTC: $49,749.00
+[2025-08-02 21:59:09] Verificando condições de trading em $49,749.00
+[2025-08-02 21:59:19] Saldo da conta: $50.00
+[2025-08-02 21:59:19] Preço atual do BTC: $49,759.01
+[2025-08-02 21:59:19] Verificando condições de trading em $49,759.01
+[2025-08-02 21:59:29] Saldo da conta: $50.00
+[2025-08-02 21:59:29] Preço atual do BTC: $49,769.01
+[2025-08-02 21:59:29] Verificando condições de trading em $49,769.01
+[2025-08-02 21:59:39] Saldo da conta: $50.00
+[2025-08-02 21:59:39] Preço atual do BTC: $49,779.01
+[2025-08-02 21:59:39] Verificando condições de trading em $49,779.01
+[2025-08-02 21:59:49] Saldo da conta: $50.00
+[2025-08-02 21:59:49] Preço atual do BTC: $49,789.01
+[2025-08-02 21:59:49] Verificando condições de trading em $49,789.01
+[2025-08-02 21:59:59] Saldo da conta: $50.00
+[2025-08-02 21:59:59] Preço atual do BTC: $49,799.01
+[2025-08-02 21:59:59] Verificando condições de trading em $49,799.01
+[2025-08-02 22:00:09] Saldo da conta: $50.00
+[2025-08-02 22:00:09] Preço atual do BTC: $49,809.02
+[2025-08-02 22:00:09] Verificando condições de trading em $49,809.02
+[2025-08-02 22:00:19] Saldo da conta: $50.00
+[2025-08-02 22:00:19] Preço atual do BTC: $49,819.02
+[2025-08-02 22:00:19] Verificando condições de trading em $49,819.02
+[2025-08-02 22:00:29] Saldo da conta: $50.00
+[2025-08-02 22:00:29] Preço atual do BTC: $49,829.02
+[2025-08-02 22:00:29] Verificando condições de trading em $49,829.02
+[2025-08-02 22:00:39] Saldo da conta: $50.00
+[2025-08-02 22:00:39] Preço atual do BTC: $49,839.02
+[2025-08-02 22:00:39] Verificando condições de trading em $49,839.02
+[2025-08-02 22:00:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:00:49] Saldo da conta: $50.00
+[2025-08-02 22:00:49] Preço atual do BTC: $49,849.02
+[2025-08-02 22:00:49] Verificando condições de trading em $49,849.02
+[2025-08-02 22:00:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:00:59] Saldo da conta: $50.00
+[2025-08-02 22:00:59] Preço atual do BTC: $49,859.03
+[2025-08-02 22:00:59] Verificando condições de trading em $49,859.03
+[2025-08-02 22:00:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:09] Saldo da conta: $50.00
+[2025-08-02 22:01:09] Preço atual do BTC: $49,869.03
+[2025-08-02 22:01:09] Verificando condições de trading em $49,869.03
+[2025-08-02 22:01:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:19] Saldo da conta: $50.00
+[2025-08-02 22:01:19] Preço atual do BTC: $49,879.03
+[2025-08-02 22:01:19] Verificando condições de trading em $49,879.03
+[2025-08-02 22:01:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:29] Saldo da conta: $50.00
+[2025-08-02 22:01:29] Preço atual do BTC: $49,889.03
+[2025-08-02 22:01:29] Verificando condições de trading em $49,889.03
+[2025-08-02 22:01:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:39] Saldo da conta: $50.00
+[2025-08-02 22:01:39] Preço atual do BTC: $49,899.04
+[2025-08-02 22:01:39] Verificando condições de trading em $49,899.04
+[2025-08-02 22:01:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:49] Saldo da conta: $50.00
+[2025-08-02 22:01:49] Preço atual do BTC: $49,909.04
+[2025-08-02 22:01:49] Verificando condições de trading em $49,909.04
+[2025-08-02 22:01:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:01:59] Saldo da conta: $50.00
+[2025-08-02 22:01:59] Preço atual do BTC: $49,919.04
+[2025-08-02 22:01:59] Verificando condições de trading em $49,919.04
+[2025-08-02 22:01:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:09] Saldo da conta: $50.00
+[2025-08-02 22:02:09] Preço atual do BTC: $49,929.04
+[2025-08-02 22:02:09] Verificando condições de trading em $49,929.04
+[2025-08-02 22:02:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:19] Saldo da conta: $50.00
+[2025-08-02 22:02:19] Preço atual do BTC: $49,939.05
+[2025-08-02 22:02:19] Verificando condições de trading em $49,939.05
+[2025-08-02 22:02:19] Criando nova posição em $49,939.05
+[2025-08-02 22:02:19] Posição criada - Entrada: $49,939.05 | Alvo: $50,438.44
+[2025-08-02 22:02:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:29] Saldo da conta: $50.00
+[2025-08-02 22:02:29] Preço atual do BTC: $49,949.05
+[2025-08-02 22:02:29] Verificando condições de trading em $49,949.05
+[2025-08-02 22:02:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:39] Saldo da conta: $50.00
+[2025-08-02 22:02:39] Preço atual do BTC: $49,959.05
+[2025-08-02 22:02:39] Verificando condições de trading em $49,959.05
+[2025-08-02 22:02:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:49] Saldo da conta: $50.00
+[2025-08-02 22:02:49] Preço atual do BTC: $49,969.06
+[2025-08-02 22:02:49] Verificando condições de trading em $49,969.06
+[2025-08-02 22:02:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:02:59] Saldo da conta: $50.00
+[2025-08-02 22:02:59] Preço atual do BTC: $49,979.06
+[2025-08-02 22:02:59] Verificando condições de trading em $49,979.06
+[2025-08-02 22:02:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:09] Saldo da conta: $50.00
+[2025-08-02 22:03:09] Preço atual do BTC: $49,989.06
+[2025-08-02 22:03:09] Verificando condições de trading em $49,989.06
+[2025-08-02 22:03:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:19] Saldo da conta: $50.00
+[2025-08-02 22:03:19] Preço atual do BTC: $49,999.06
+[2025-08-02 22:03:19] Verificando condições de trading em $49,999.06
+[2025-08-02 22:03:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:29] Saldo da conta: $50.00
+[2025-08-02 22:03:29] Preço atual do BTC: $50,009.07
+[2025-08-02 22:03:29] Verificando condições de trading em $50,009.07
+[2025-08-02 22:03:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:39] Saldo da conta: $50.00
+[2025-08-02 22:03:39] Preço atual do BTC: $50,019.07
+[2025-08-02 22:03:39] Verificando condições de trading em $50,019.07
+[2025-08-02 22:03:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:49] Saldo da conta: $50.00
+[2025-08-02 22:03:49] Preço atual do BTC: $50,029.07
+[2025-08-02 22:03:49] Verificando condições de trading em $50,029.07
+[2025-08-02 22:03:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:59] Saldo da conta: $50.00
+[2025-08-02 22:03:59] Preço atual do BTC: $50,039.07
+[2025-08-02 22:03:59] Verificando condições de trading em $50,039.07
+[2025-08-02 22:03:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:03:59] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:09] Saldo da conta: $50.00
+[2025-08-02 22:04:09] Preço atual do BTC: $50,049.08
+[2025-08-02 22:04:09] Verificando condições de trading em $50,049.08
+[2025-08-02 22:04:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:09] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:19] Saldo da conta: $50.00
+[2025-08-02 22:04:19] Preço atual do BTC: $50,059.08
+[2025-08-02 22:04:19] Verificando condições de trading em $50,059.08
+[2025-08-02 22:04:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:19] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:29] Saldo da conta: $50.00
+[2025-08-02 22:04:29] Preço atual do BTC: $50,069.08
+[2025-08-02 22:04:29] Verificando condições de trading em $50,069.08
+[2025-08-02 22:04:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:29] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:39] Saldo da conta: $50.00
+[2025-08-02 22:04:39] Preço atual do BTC: $50,079.09
+[2025-08-02 22:04:39] Verificando condições de trading em $50,079.09
+[2025-08-02 22:04:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:39] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:49] Saldo da conta: $50.00
+[2025-08-02 22:04:49] Preço atual do BTC: $50,089.09
+[2025-08-02 22:04:49] Verificando condições de trading em $50,089.09
+[2025-08-02 22:04:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:49] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:04:59] Saldo da conta: $50.00
+[2025-08-02 22:04:59] Preço atual do BTC: $50,099.09
+[2025-08-02 22:04:59] Verificando condições de trading em $50,099.09
+[2025-08-02 22:04:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:04:59] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:09] Saldo da conta: $50.00
+[2025-08-02 22:05:09] Preço atual do BTC: $50,109.10
+[2025-08-02 22:05:09] Verificando condições de trading em $50,109.10
+[2025-08-02 22:05:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:09] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:19] Saldo da conta: $50.00
+[2025-08-02 22:05:19] Preço atual do BTC: $50,119.10
+[2025-08-02 22:05:19] Verificando condições de trading em $50,119.10
+[2025-08-02 22:05:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:19] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:29] Saldo da conta: $50.00
+[2025-08-02 22:05:29] Preço atual do BTC: $50,129.10
+[2025-08-02 22:05:29] Verificando condições de trading em $50,129.10
+[2025-08-02 22:05:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:29] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:39] Saldo da conta: $50.00
+[2025-08-02 22:05:39] Preço atual do BTC: $50,139.11
+[2025-08-02 22:05:39] Verificando condições de trading em $50,139.11
+[2025-08-02 22:05:39] Criando nova posição em $50,139.11
+[2025-08-02 22:05:39] Posição criada - Entrada: $50,139.11 | Alvo: $50,640.50
+[2025-08-02 22:05:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:39] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:49] Saldo da conta: $50.00
+[2025-08-02 22:05:49] Preço atual do BTC: $50,149.11
+[2025-08-02 22:05:49] Verificando condições de trading em $50,149.11
+[2025-08-02 22:05:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:49] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:05:59] Saldo da conta: $50.00
+[2025-08-02 22:05:59] Preço atual do BTC: $50,159.11
+[2025-08-02 22:05:59] Verificando condições de trading em $50,159.11
+[2025-08-02 22:05:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:05:59] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:09] Saldo da conta: $50.00
+[2025-08-02 22:06:09] Preço atual do BTC: $50,169.12
+[2025-08-02 22:06:09] Verificando condições de trading em $50,169.12
+[2025-08-02 22:06:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:09] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:19] Saldo da conta: $50.00
+[2025-08-02 22:06:19] Preço atual do BTC: $50,179.14
+[2025-08-02 22:06:19] Verificando condições de trading em $50,179.14
+[2025-08-02 22:06:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:19] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:29] Saldo da conta: $50.00
+[2025-08-02 22:06:29] Preço atual do BTC: $50,189.14
+[2025-08-02 22:06:29] Verificando condições de trading em $50,189.14
+[2025-08-02 22:06:29] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:29] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:39] Saldo da conta: $50.00
+[2025-08-02 22:06:39] Preço atual do BTC: $50,199.15
+[2025-08-02 22:06:39] Verificando condições de trading em $50,199.15
+[2025-08-02 22:06:39] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:39] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:49] Saldo da conta: $50.00
+[2025-08-02 22:06:49] Preço atual do BTC: $50,209.15
+[2025-08-02 22:06:49] Verificando condições de trading em $50,209.15
+[2025-08-02 22:06:49] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:49] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:06:59] Saldo da conta: $50.00
+[2025-08-02 22:06:59] Preço atual do BTC: $50,219.15
+[2025-08-02 22:06:59] Verificando condições de trading em $50,219.15
+[2025-08-02 22:06:59] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:06:59] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:09] Saldo da conta: $50.00
+[2025-08-02 22:07:09] Preço atual do BTC: $50,229.17
+[2025-08-02 22:07:09] Verificando condições de trading em $50,229.17
+[2025-08-02 22:07:09] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:07:09] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:19] Saldo da conta: $50.00
+[2025-08-02 22:07:19] Preço atual do BTC: $50,239.18
+[2025-08-02 22:07:19] Verificando condições de trading em $50,239.18
+[2025-08-02 22:07:19] Alvo atingido para posição 49739.00105500221
+[2025-08-02 22:07:19] Adicionando $5000 de margem para posição 49739.00105500221
+[2025-08-02 22:07:19] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:19] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:07:29] Saldo da conta: $50.00
+[2025-08-02 22:07:29] Preço atual do BTC: $50,249.18
+[2025-08-02 22:07:29] Verificando condições de trading em $50,249.18
+[2025-08-02 22:07:29] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:29] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:07:39] Saldo da conta: $50.00
+[2025-08-02 22:07:39] Preço atual do BTC: $50,259.19
+[2025-08-02 22:07:39] Verificando condições de trading em $50,259.19
+[2025-08-02 22:07:39] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:39] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:07:49] Saldo da conta: $50.00
+[2025-08-02 22:07:49] Preço atual do BTC: $50,269.19
+[2025-08-02 22:07:49] Verificando condições de trading em $50,269.19
+[2025-08-02 22:07:49] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:49] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:07:59] Saldo da conta: $50.00
+[2025-08-02 22:07:59] Preço atual do BTC: $50,279.19
+[2025-08-02 22:07:59] Verificando condições de trading em $50,279.19
+[2025-08-02 22:07:59] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:07:59] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:08:09] Saldo da conta: $50.00
+[2025-08-02 22:08:09] Preço atual do BTC: $50,289.20
+[2025-08-02 22:08:09] Verificando condições de trading em $50,289.20
+[2025-08-02 22:08:09] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:08:09] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:08:19] Saldo da conta: $50.00
+[2025-08-02 22:08:19] Preço atual do BTC: $50,299.20
+[2025-08-02 22:08:19] Verificando condições de trading em $50,299.20
+[2025-08-02 22:08:19] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:08:19] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:08:29] Saldo da conta: $50.00
+[2025-08-02 22:08:29] Preço atual do BTC: $50,309.20
+[2025-08-02 22:08:29] Verificando condições de trading em $50,309.20
+[2025-08-02 22:08:29] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:08:29] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:08:39] Saldo da conta: $50.00
+[2025-08-02 22:08:39] Preço atual do BTC: $50,319.20
+[2025-08-02 22:08:39] Verificando condições de trading em $50,319.20
+[2025-08-02 22:08:39] Adicionando $5000 de margem para posição 49939.04608440399
+[2025-08-02 22:08:39] Adicionando $5000 de margem para posição 50139.106152296066
+[2025-08-02 22:08:43] Bot interrompido pelo usuário
+[2025-08-02 22:08:43] Desligamento completo do bot de trading
+[2025-08-02 22:30:57] Iniciando Bot LN Markets (TESTNET)
+[2025-08-02 22:30:57] Conectado à TESTNET
+[2025-08-02 22:30:58] Erro HTTP 404: 
+[2025-08-02 22:30:58] Bot finalizado
+[2025-08-02 22:32:42] Iniciando Bot LN Markets (TESTNET)
+[2025-08-02 22:32:42] Conectado à TESTNET
+[2025-08-02 22:32:42] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:42] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:47] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:47] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:53] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:53] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:58] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:32:58] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:03] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:03] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:08] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:08] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:13] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:13] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:19] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:19] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:33:21] Bot interrompido pelo usuário
+[2025-08-02 22:33:21] Bot finalizado
+[2025-08-02 22:41:45] Iniciando Bot LN Markets (TESTNET)
+[2025-08-02 22:41:45] Conectado à TESTNET
+[2025-08-02 22:41:46] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:41:46] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:41:51] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:41:51] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:41:54] Bot interrompido pelo usuário
+[2025-08-02 22:41:54] Bot finalizado
+[2025-08-02 22:44:04] Iniciando Bot LN Markets (TESTNET)
+[2025-08-02 22:44:04] Conectando à: https://api.testnet4.lnmarkets.com/v2
+[2025-08-02 22:44:04] Requisição para: GET /user
+[2025-08-02 22:44:04] Cabeçalhos: {'LNM-ACCESS-KEY': '4R0mpMM7jlZoArDXEG24pNccKNoSukWXQ16urJvSdjw=', 'LNM-ACCESS-SIGNATURE': 'b54794ed37ea1f9b1e8cccdaa1997bf64e48294a92449b459a581f43ad4095e0', 'LNM-ACCESS-TIMESTAMP': '1754185444267', 'LNM-ACCESS-PASSPHRASE': 'Raphajo@02', 'Content-Type': 'application/json'}
+[2025-08-02 22:44:04] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:04] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:10] Requisição para: GET /user
+[2025-08-02 22:44:10] Cabeçalhos: {'LNM-ACCESS-KEY': '4R0mpMM7jlZoArDXEG24pNccKNoSukWXQ16urJvSdjw=', 'LNM-ACCESS-SIGNATURE': '86755c57c400480d8a8b4840b89c8d4b83a4d96f7ba73c6b19a788f1bb4ff64d', 'LNM-ACCESS-TIMESTAMP': '1754185449971', 'LNM-ACCESS-PASSPHRASE': 'Raphajo@02', 'Content-Type': 'application/json'}
+[2025-08-02 22:44:10] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:10] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:15] Requisição para: GET /user
+[2025-08-02 22:44:15] Cabeçalhos: {'LNM-ACCESS-KEY': '4R0mpMM7jlZoArDXEG24pNccKNoSukWXQ16urJvSdjw=', 'LNM-ACCESS-SIGNATURE': '3c872501072ffb0daefe26340eea2282b9e8405f1acb4701ffa586b79306156c', 'LNM-ACCESS-TIMESTAMP': '1754185455186', 'LNM-ACCESS-PASSPHRASE': 'Raphajo@02', 'Content-Type': 'application/json'}
+[2025-08-02 22:44:15] Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:15] Erro: Erro HTTP 401: {"message":"Api key does not exist"}
+[2025-08-02 22:44:17] Bot interrompido pelo usuário
+[2025-08-02 22:44:17] Bot finalizado
