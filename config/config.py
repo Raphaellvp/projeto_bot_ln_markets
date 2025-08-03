@@ -4,18 +4,33 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
-    # Configurações de API
-    LNMARKETS_KEY = os.getenv('LNMARKETS_KEY')
-    LNMARKETS_SECRET = os.getenv('LNMARKETS_SECRET')
-    LNMARKETS_PASSPHRASE = os.getenv('LNMARKETS_PASSPHRASE')
-    TESTNET = os.getenv('TESTNET', 'false').lower() == 'true'
+    # Configuração com suas chaves de teste
+    LNMARKETS_KEY = "U+eEBdZWF+wEfoNa7kIrjAL+fRSnfqcUOCANWXoKyTY="
+    LNMARKETS_SECRET = "rymubEBdpjWffRI4usS/PeezZOFlq+O7kqBQnIURZg2TwMnZ7aRj5BlSG+5/S6xtltAXOPz5Oj71BmusxfLi7g=="
+    LNMARKETS_PASSPHRASE = "Raphajo@02"
+    TESTNET = True
     
-    # Parâmetros de trading
-    ENTRY_AMOUNT = 1.0               # $1 por operação
-    LEVERAGE = 10                    # 10x alavancagem
-    PRICE_THRESHOLD = 200            # $200 variação para nova entrada
-    TARGET_PROFIT = 1.0              # 1% de lucro
-    MIN_BALANCE = 5.0                # Pausar abaixo de $5
-    MARGIN_ADDITION = 5000           # Adicionar $5000 de margem
-    LIQUIDATION_BUFFER = 1000        # Ativar proteção quando faltar $1000 para liquidação
-    FEE_RATE = 0.00075               # Taxa de 0.075% por operação
+    @classmethod
+    def validate(cls):
+        print("\n🔐 Validando credenciais:")
+        print(f"Key: {cls.LNMARKETS_KEY[:5]}...{cls.LNMARKETS_KEY[-5:]}")
+        print(f"Secret: {'*****' if cls.LNMARKETS_SECRET else 'NÃO CONFIGURADO'}")
+        print(f"Passphrase: {'*****' if cls.LNMARKETS_PASSPHRASE else 'NÃO CONFIGURADO'}")
+        if not all([cls.LNMARKETS_KEY, cls.LNMARKETS_SECRET, cls.LNMARKETS_PASSPHRASE]):
+            raise ValueError("Credenciais incompletas!")import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+class Config:
+    # Configuração direta com suas chaves (removi o .env para testes)
+    LNMARKETS_KEY = "U+eEBdZWF+wEfoNa7kIrjAL+fRSnfqcUOCANWXoKyTY="
+    LNMARKETS_SECRET = "rymubEBdpjWffRI4usS/PeezZOFlq+O7kqBQnIURZg2TwMnZ7aRj5BlSG+5/S6xtltAXOPz5Oj71BmusxfLi7g=="
+    LNMARKETS_PASSPHRASE = "Raphajo@02"
+    TESTNET = True
+    
+    @classmethod
+    def validate(cls):
+        if not all([cls.LNMARKETS_KEY, cls.LNMARKETS_SECRET, cls.LNMARKETS_PASSPHRASE]):
+            raise ValueError("Credenciais incompletas!")
+        print("✔ Credenciais validadas com sucesso")
